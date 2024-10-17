@@ -139,7 +139,9 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Pages\CrearProducto.aspx" />
     <Content Include="Pages\ListaProductos.aspx" />
+    <Content Include="Pages\Mensaje.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -258,12 +260,26 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Pages\CrearProducto.aspx.cs">
+      <DependentUpon>CrearProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\CrearProducto.aspx.designer.cs">
+      <DependentUpon>CrearProducto.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\ListaProductos.aspx.cs">
       <DependentUpon>ListaProductos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Pages\ListaProductos.aspx.designer.cs">
       <DependentUpon>ListaProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Mensaje.aspx.cs">
+      <DependentUpon>Mensaje.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Mensaje.aspx.designer.cs">
+      <DependentUpon>Mensaje.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
