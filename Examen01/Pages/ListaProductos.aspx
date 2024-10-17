@@ -7,7 +7,7 @@
 
     <br />
     <br />
-    <asp:GridView ID="gvProductos" runat="server" AutoGenerateColumns="false" AllowPaging="true" PageSize="10" CellPadding="14" CssClass="table table-bordered" OnRowDataBound="gvProductos_RowDataBound">
+    <asp:GridView ID="gvProductos" runat="server" AutoGenerateColumns="false" AllowPaging="true" PageSize="10" CellPadding="14" CssClass="table table-bordered" OnRowDataBound="gvProductos_RowDataBound" OnPageIndexChanging="gvProductos_PageIndexChanging">
         <Columns>
             <asp:BoundField DataField="idProducto" HeaderText="ID" />
 

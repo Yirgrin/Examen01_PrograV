@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\pages\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\pages\\listaproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\listaproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\pages\\crearproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\crearproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|c:\\users\\prisi\\documents\\github\\examen01_prograv\\examen01\\pages\\mensaje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\mensaje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|c:\\users\\prisi\\documents\\github\\examen01_prograv\\examen01\\pages\\mensaje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\pages\\mensaje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\mensaje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|c:\\users\\prisi\\documents\\github\\examen01_prograv\\examen01\\pages\\crearproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\pages\\crearproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\crearproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|c:\\users\\prisi\\documents\\github\\examen01_prograv\\examen01\\pages\\crearproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\crearproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|c:\\users\\prisi\\documents\\github\\examen01_prograv\\examen01\\pages\\listaproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\listaproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\pages\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|solutionrelative:pages\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{647E9148-1516-49C0-8BE0-FFC8D607C8A0}|Examen01.csproj|C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\connection\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Mensaje.aspx.cs",
               "DocumentMoniker": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\Mensaje.aspx.cs",
               "RelativeDocumentMoniker": "Pages\\Mensaje.aspx.cs",
@@ -79,20 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Mensaje.aspx",
               "DocumentMoniker": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\Mensaje.aspx",
               "RelativeDocumentMoniker": "Pages\\Mensaje.aspx",
               "ToolTip": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\Mensaje.aspx",
               "RelativeToolTip": "Pages\\Mensaje.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-10-17T05:22:08.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CrearProducto.aspx.cs",
               "DocumentMoniker": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\CrearProducto.aspx.cs",
               "RelativeDocumentMoniker": "Pages\\CrearProducto.aspx.cs",
@@ -105,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CrearProducto.aspx",
               "DocumentMoniker": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\CrearProducto.aspx",
               "RelativeDocumentMoniker": "Pages\\CrearProducto.aspx",
@@ -118,20 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ListaProductos.aspx.cs",
               "DocumentMoniker": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\ListaProductos.aspx.cs",
               "RelativeDocumentMoniker": "Pages\\ListaProductos.aspx.cs",
               "ToolTip": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\ListaProductos.aspx.cs",
               "RelativeToolTip": "Pages\\ListaProductos.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T05:06:54.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ListaProductos.aspx",
               "DocumentMoniker": "C:\\Users\\prisi\\Documents\\GitHub\\Examen01_PrograV\\Examen01\\Pages\\ListaProductos.aspx",
               "RelativeDocumentMoniker": "Pages\\ListaProductos.aspx",

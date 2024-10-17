@@ -68,5 +68,11 @@ namespace Examen01.Pages
         {
             Response.Redirect("CrearProducto.aspx", false);
         }
+
+        protected void gvProductos_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            gvProductos.PageIndex = e.NewPageIndex;
+            cargarListaProductos();
+        }
     }
 }
